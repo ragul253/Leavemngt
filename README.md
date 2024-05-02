@@ -21,9 +21,10 @@ This project is a Leave Management System, designed to streamline the process of
 ## Installation
 
 1. Clone the repository: `git clone https://github.com/ragul253leave-management-system.git`
-2. Import the database schema from `database folder`
-3. Configure the database connection in `config.php`
-4. Start the PHP development server: `php -S localhost:8000`
+2. Extrack the Zip file and open then readme file to install
+3. Import the database schema from `database folder`
+4. Configure the database connection in `config.php`
+5. Start the PHP development server: `php -S localhost:8000`
 
 ## Usage
 
